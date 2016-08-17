@@ -2,7 +2,7 @@ package myles.development.com.example.MelissaPractice;
 import java.util.Scanner;
 
 public class Orange {
-	public void main(String args[]){
+	public static void main(String args[]){
 		@SuppressWarnings("unused")
 		Scanner bucky = new Scanner(System.in);
 		int tuna = 5;

@@ -10,7 +10,6 @@ public class fruit {
 		boys = 3;
 		people = girls / boys;
 		System.out.println(people);
-		
 	}
 
 }
